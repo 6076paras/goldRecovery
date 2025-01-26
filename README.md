@@ -24,7 +24,7 @@ Cyanidation uses cyanide to dissolve gold from the concentrate into a gold-cyani
 
 Gold is recovered from the cyanide solution using activated carbon or zinc.
 
-### Activated Carbon Adsorption:
+#### Activated Carbon Adsorption:
 - Cyanide solution is passed through activated carbon, adsorbing gold.
 - Gold is stripped from the carbon and refined.
 
@@ -33,3 +33,5 @@ Gold is recovered from the cyanide solution using activated carbon or zinc.
 - Gold is filtered out and refined.
 
 ### **Summary Diagram**
+<div align="center">
+<img src="" alt="Process Description">
