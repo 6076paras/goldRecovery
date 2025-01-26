@@ -34,4 +34,4 @@ Gold is recovered from the cyanide solution using activated carbon or zinc.
 
 ### **Summary Diagram**
 <div align="center">
-<img src="https://github.com/6076paras/goldRecovery/blob/3b1c9ce41e9eae4052cd8e2777a6a65f8c34a23a/assets/technological_process.png" alt="Process Description">
+<img src="https://github.com/6076paras/goldRecovery/blob/3b1c9ce41e9eae4052cd8e2777a6a65f8c34a23a/assets/technological_process.png" width="50%" height="50%" alt="Process Description" />
