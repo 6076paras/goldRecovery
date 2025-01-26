@@ -54,11 +54,11 @@ Where:
   - `state` — parameters that characterize the current state of the stage
   - `calculation` — derived or calculation-based parameters
 
-- **[parameter_name]** refers to the specific parameter being measured. For full description refer to [`parameter_names.md`]((https://github.com/paras-p/gold-recovery/blob/main/goldrecovery/data/parameter_names.md) "goldrecovery/data/parameter_names.md") 
+- **[parameter_name]** refers to the specific parameter being measured. For full description refer to [`parameter_names.md`]((https://github.com/6076paras/goldRecovery/blob/7cfb134d6b13caffe8275ae1d06b5e103509b1b7/goldrecovery/data/parameter_names.md) "goldrecovery/data/parameter_names.md") 
 
-The following image visually represents the gold recovery process workflow, highlighting stages like flotation, primary purification, secondary purification, and final product characteristics. It also uses example variables to illustrate how data corresponds to stages and parameter types, such as gold content for input and output
+The following image visually represents the gold recovery process workflow, highlighting stages like flotation, primary purification, secondary purification, and final product characteristics. It also uses example variables to illustrate how data corresponds to stages and parameter types, such as gold content.
 
 <div align="center">
-<img src="https://github.com/6076paras/goldRecovery/blob/3b1c9ce41e9eae4052cd8e2777a6a65f8c34a23a/assets/technological_process.png" width="50%" height="50%" alt="Process Description" />
+<img src="https://github.com/6076paras/goldRecovery/blob/7cfb134d6b13caffe8275ae1d06b5e103509b1b7/assets/data_description.png" width="50%" height="50%" alt="Process Description" />
 
 </div>
