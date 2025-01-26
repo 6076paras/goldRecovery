@@ -1,8 +1,8 @@
-## **Gold Purification Process**
+### **Gold Purification Process**
 
 Gold purification is a multi-stage process used to extract pure gold from ore, focusing on flotation and leaching stages.
 
-### 1. **Flotation Process (First Stage)**
+#### 1. Flotation Process
 
 Flotation separates gold from gangue based on surface properties. Gold becomes hydrophobic, attaching to air bubbles and floating to the surface, while gangue stays submerged.
 
@@ -12,7 +12,7 @@ Flotation separates gold from gangue based on surface properties. Gold becomes h
 - Air bubbles cause gold to float, forming a froth, which is skimmed off as **rougher concentrate**.
 - Remaining material, **rougher tails**, has a lower gold concentration and is either discarded or further treated.
 
-### 2. **First Stage of Leaching (Cyanidation)**
+#### 2. First Stage of Leaching
 
 Cyanidation uses cyanide to dissolve gold from the concentrate into a gold-cyanide complex.
 
@@ -20,7 +20,7 @@ Cyanidation uses cyanide to dissolve gold from the concentrate into a gold-cyani
 - Flotation concentrate is mixed with sodium cyanide.
 - Cyanide leaches gold into a liquid form, separating it from gangue.
 
-### 3. **Second Stage of Leaching (Activated Carbon or Zinc Precipitation)**
+#### 3. Second Stage of Leaching
 
 Gold is recovered from the cyanide solution using activated carbon or zinc.
 
@@ -34,7 +34,7 @@ Gold is recovered from the cyanide solution using activated carbon or zinc.
 
 
 
-#### Data Description
+### **Data Description**
 The column names in the dataset follow the structure:
 
 ```
@@ -54,7 +54,7 @@ Where:
   - `state` — parameters that characterize the current state of the stage
   - `calculation` — derived or calculation-based parameters
 
-- **[parameter_name]** refers to the specific parameter being measured. For full description refer to [`parameter_names.md`]((https://github.com/6076paras/goldRecovery/blob/7cfb134d6b13caffe8275ae1d06b5e103509b1b7/goldrecovery/data/parameter_names.md) "goldrecovery/data/parameter_names.md") 
+- **[parameter_name]** refers to the specific parameter being measured. For a full description, refer to the [`parameter_names.md`](command:_github.copilot.openRelativePath?%5B%22goldrecovery%2Fdata%2Fparameter_names.md%22%5D "goldrecovery/data/parameter_names.md") file.
 
 The following image visually represents the gold recovery process workflow, highlighting stages like flotation, primary purification, secondary purification, and final product characteristics. It also uses example variables to illustrate how data corresponds to stages and parameter types, such as gold content.
 
