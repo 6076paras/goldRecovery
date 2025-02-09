@@ -1,4 +1,4 @@
-### **Gold Purification Process**
+<!-- ### **Gold Purification Process**
 
 Gold purification is a multi-stage process used to extract pure gold from ore, focusing on flotation and leaching stages.
 
@@ -61,4 +61,4 @@ The following image visually represents the gold recovery process workflow, high
 <div align="center">
 <img src="https://github.com/6076paras/goldRecovery/blob/7cfb134d6b13caffe8275ae1d06b5e103509b1b7/assets/data_description.png" width="50%" height="50%" alt="Process Description" />
 
-</div>
+</div> -->
