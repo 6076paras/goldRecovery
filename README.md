@@ -3,8 +3,8 @@
 
 This project focuses on optimizing gold recovery efficiency in the purification process using machine learning techniques. By analyzing data from various stages of the flotation process, the developed models predict and improve recovery rates while optimizing reagent consumption. The project leverages Zyfra's extensive dataset to create a digital twin of the purification process, enabling risk-free parameter experimentation and process optimization.
 
-For a detailed analysis and technical report of this project, check out the blog post:
-[Machine Learning Integration for Gold Recovery Process Control](https://6076paras.github.io/blog/2025/gold-recovery-optimization/)
+For a detailed analysis and technical report of this project, check out the 
+[blog post](https://6076paras.github.io/blog/2025/gold-recovery-optimization/).
 
 
 <!-- ### **Gold Purification Process**
